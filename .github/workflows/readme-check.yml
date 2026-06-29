@@ -1,0 +1,24 @@
+name: Validate profile README
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Check profile README
+        run: |
+          test -s README.md
+          grep -Fq 'https://mr-tooth.github.io/' README.md
+          ! grep -En 'TODO|TBD|example\.com' README.md
