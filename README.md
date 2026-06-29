@@ -1,6 +1,6 @@
 # Hey there, I'm [Junhang Lai](https://mr-tooth.github.io/) 👋
 
-I am a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), working on motion planning and control for humanoid and legged robots. I am currently a research intern at [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn
+I am a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Technology](https://english.bit.edu.cn/), working on motion planning and control for humanoid and legged robots. I am currently a research intern at [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn)
 My research covers humanoid locomotion, whole-body control, reinforcement learning, and sim-to-real deployment. I am especially interested in combining model-based optimization with learning-based control for reliable robot motion in real environments.
 
 ## Research and Engineering
