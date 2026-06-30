@@ -18,7 +18,7 @@ I am a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Techno
 
 My research combines model-based optimization with learning-based control to produce reliable robot motion in simulation and on physical systems.
 
-If you are interested in my work or would like to explore a collaboration, please contact me at [laijunhang.bit@vip.163.com](mailto:laijunhang.bit@vip.163.com).
+If you are interested in my work or would like to explore a collaboration, please contact me via [email](mailto:laijunhang.bit@vip.163.com).
 
 ## Research Focus
 
@@ -33,45 +33,75 @@ If you are interested in my work or would like to explore a collaboration, pleas
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C" />
+      <br />C
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
       <br />C++
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
       <br />Python
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" />
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB" />
+      <br />MATLAB
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
       <br />PyTorch
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="42" height="42" alt="MATLAB" />
-      <br />MATLAB
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="42" height="42" alt="ROS" />
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="36" height="36" alt="ROS" />
       <br />ROS
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="42" height="42" alt="CMake" />
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="36" height="36" alt="CMake" />
       <br />CMake
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" width="36" height="36" alt="Hugo" />
+      <br />Hugo
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" />
       <br />Git
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" />
+    <td align="center" width="64">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+        <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />
+      </picture>
+      <br />GitHub
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" />
+      <br />VS Code
+    </td>
+    <td align="center" width="64">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
       <br />Bash
+    </td>
+    <td align="center" width="64">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/hugeicons:capcut.svg?color=%23ffffff" />
+        <img src="https://api.iconify.design/hugeicons:capcut.svg?color=%23181717" width="36" height="36" alt="CapCut" />
+      </picture>
+      <br />CapCut
     </td>
   </tr>
 </table>
@@ -81,9 +111,10 @@ If you are interested in my work or would like to explore a collaboration, pleas
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-123047?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Whole--Body%20Control-0F766E?style=flat-square" alt="Whole-Body Control" />
   <img src="https://img.shields.io/badge/MPC%20%2F%20NMPC-123047?style=flat-square" alt="MPC and NMPC" />
-  <img src="https://img.shields.io/badge/Optimal%20Control-0F766E?style=flat-square" alt="Optimal Control" />
-  <img src="https://img.shields.io/badge/Sim--to--Real-123047?style=flat-square" alt="Sim-to-Real" />
-  <img src="https://img.shields.io/badge/Imitation%20Learning-0F766E?style=flat-square" alt="Imitation Learning" />
+  <img src="https://img.shields.io/badge/Trajectory%20Optimization-0F766E?style=flat-square" alt="Trajectory Optimization" />
+  <img src="https://img.shields.io/badge/Optimal%20Control-123047?style=flat-square" alt="Optimal Control" />
+  <img src="https://img.shields.io/badge/Sim--to--Real-0F766E?style=flat-square" alt="Sim-to-Real" />
+  <img src="https://img.shields.io/badge/Imitation%20Learning-123047?style=flat-square" alt="Imitation Learning" />
 </p>
 
 Core tools include C++, Python, MATLAB, PyTorch, ONNX Runtime, Pinocchio, CasADi, Crocoddyl, OCS2, Isaac Gym/Sim, MuJoCo, ROS, EtherCAT, and RTOS-based robot software.

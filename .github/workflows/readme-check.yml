@@ -22,7 +22,9 @@ jobs:
           test -s README.md
           grep -Fq '<a href="https://mr-tooth.github.io/">Junhang Lai</a>' README.md
           grep -Fq 'https://mr-tooth.github.io/' README.md
-          grep -Fq 'mailto:laijunhang.bit@vip.163.com' README.md
+          grep -Fq '[email](mailto:laijunhang.bit@vip.163.com)' README.md
+          grep -Fq 'Trajectory%20Optimization' README.md
+          test "$(grep -c '<td align="center" width="64">' README.md)" -eq 15
           grep -Fq './profile/stats.svg' README.md
           grep -Fq './profile/top-langs.svg' README.md
           grep -Fq 'streak-stats.demolab.com' README.md
