@@ -58,8 +58,8 @@ I maintain robotics software and reusable engineering tools through [BitRobotics
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Mr-tooth"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-tooth&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent" alt="Junhang Lai's GitHub statistics" /></a>
-  <a href="https://github.com/Mr-tooth?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-tooth&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Languages in Junhang Lai's public repositories" /></a>
+  <a href="https://github.com/Mr-tooth"><img height="170" src="./profile/stats.svg" alt="Junhang Lai's GitHub statistics" /></a>
+  <a href="https://github.com/Mr-tooth?tab=repositories"><img height="170" src="./profile/top-langs.svg" alt="Languages in Junhang Lai's public repositories" /></a>
 </p>
 
 <p align="center">

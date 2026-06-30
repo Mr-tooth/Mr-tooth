@@ -21,7 +21,8 @@ jobs:
         run: |
           test -s README.md
           grep -Fq 'https://mr-tooth.github.io/' README.md
-          grep -Fq 'github-readme-stats.vercel.app/api?' README.md
+          grep -Fq './profile/stats.svg' README.md
+          grep -Fq './profile/top-langs.svg' README.md
           grep -Fq 'streak-stats.demolab.com' README.md
           grep -Fq 'komarev.com/ghpvc/' README.md
           ! grep -Fq 'github-readme-streak-stats.herokuapp.com' README.md
