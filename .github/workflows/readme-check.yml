@@ -20,10 +20,14 @@ jobs:
       - name: Check profile README
         run: |
           test -s README.md
+          grep -Fq '<a href="https://mr-tooth.github.io/">Junhang Lai</a>' README.md
           grep -Fq 'https://mr-tooth.github.io/' README.md
+          grep -Fq 'mailto:laijunhang.bit@vip.163.com' README.md
           grep -Fq './profile/stats.svg' README.md
           grep -Fq './profile/top-langs.svg' README.md
           grep -Fq 'streak-stats.demolab.com' README.md
           grep -Fq 'komarev.com/ghpvc/' README.md
+          grep -Fq 'role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR' .github/workflows/update-readme-cards.yml
+          ! grep -Fq '## Contact' README.md
           ! grep -Fq 'github-readme-streak-stats.herokuapp.com' README.md
           ! grep -En 'TODO|TBD|example\.com' README.md

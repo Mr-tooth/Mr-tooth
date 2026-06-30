@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Junhang Lai</h1>
+<h1 align="center">Hey there, I'm <a href="https://mr-tooth.github.io/">Junhang Lai</a> 👋</h1>
 
 <p align="center">
   Ph.D. candidate in robotics &middot; Humanoid locomotion &middot; Reinforcement learning &middot; Sim-to-real
@@ -18,6 +18,8 @@ I am a Ph.D. candidate in Mechanical Engineering at [Beijing Institute of Techno
 
 My research combines model-based optimization with learning-based control to produce reliable robot motion in simulation and on physical systems.
 
+If you are interested in my work or would like to explore a collaboration, please contact me at [laijunhang.bit@vip.163.com](mailto:laijunhang.bit@vip.163.com).
+
 ## Research Focus
 
 - Humanoid and wheel-biped multimodal locomotion planning and control
@@ -26,19 +28,54 @@ My research combines model-based optimization with learning-based control to pro
 - Robot simulation, system integration, and sim-to-real deployment
 - Embodied intelligence and cerebrum-cerebellum coordinated control
 
-## Technical Toolkit
+## Tech stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="42" height="42" alt="MATLAB" title="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="42" height="42" alt="ROS" title="ROS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="42" height="42" alt="CMake" title="CMake" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" title="Bash" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
+      <br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" />
+      <br />PyTorch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="42" height="42" alt="MATLAB" />
+      <br />MATLAB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="42" height="42" alt="ROS" />
+      <br />ROS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="42" height="42" alt="CMake" />
+      <br />CMake
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" />
+      <br />Bash
+    </td>
+  </tr>
+</table>
+</div>
 
 <p>
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-123047?style=flat-square" alt="Reinforcement Learning" />
@@ -66,8 +103,4 @@ I maintain robotics software and reusable engineering tools through [BitRobotics
   <a href="https://github.com/Mr-tooth"><img height="170" src="https://streak-stats.demolab.com?user=Mr-tooth&amp;hide_border=true&amp;theme=transparent" alt="Junhang Lai's GitHub contribution streak" /></a>
 </p>
 
-<sub>Top Languages reflects the composition of public repository code, not overall technical proficiency.</sub>
-
-## Contact
-
-[Email](mailto:laijunhang.bit@vip.163.com) | [Google Scholar](https://scholar.google.com/citations?user=3csppPoAAAAJ) | [ORCID](https://orcid.org/0000-0001-7260-408X) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58143695900) | [Personal website](https://mr-tooth.github.io/)
+<sub>Cards combine repositories where Mr-tooth is an owner, organization member (including BitRoboticsLab), or collaborator. Language share reflects repository code, not overall technical proficiency.</sub>

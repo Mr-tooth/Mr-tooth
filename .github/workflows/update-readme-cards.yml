@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&theme=transparent
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Personal%20%2B%20Open-Source%20Activity
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Affiliated%20Repository%20Languages
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
