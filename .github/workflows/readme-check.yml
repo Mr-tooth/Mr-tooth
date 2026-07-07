@@ -27,9 +27,11 @@ jobs:
           test "$(grep -c '<td align="center" width="64">' README.md)" -eq 15
           grep -Fq './profile/stats.svg' README.md
           grep -Fq './profile/top-langs.svg' README.md
-          grep -Fq 'streak-stats.demolab.com' README.md
+          grep -Fq './profile/streak.svg' README.md
           grep -Fq 'komarev.com/ghpvc/' README.md
           grep -Fq 'role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR' .github/workflows/update-readme-cards.yml
+          python scripts/render_streak.py --self-test
           ! grep -Fq '## Contact' README.md
+          ! grep -Fq 'streak-stats.demolab.com' README.md
           ! grep -Fq 'github-readme-streak-stats.herokuapp.com' README.md
           ! grep -En 'TODO|TBD|example\.com' README.md

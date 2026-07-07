@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/update-readme-cards.yml
+      - scripts/render_streak.py
   schedule:
     - cron: '17 3 * * *'
   workflow_dispatch:
@@ -39,6 +40,13 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Affiliated%20Repository%20Languages
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution streak card
+        run: |
+          python scripts/render_streak.py --self-test
+          python scripts/render_streak.py --user "${{ github.repository_owner }}" --output profile/streak.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |

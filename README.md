@@ -131,7 +131,7 @@ I maintain robotics software and reusable engineering tools through [BitRobotics
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mr-tooth"><img height="170" src="https://streak-stats.demolab.com?user=Mr-tooth&amp;hide_border=true&amp;theme=transparent" alt="Junhang Lai's GitHub contribution streak" /></a>
+  <a href="https://github.com/Mr-tooth"><img height="170" src="./profile/streak.svg" alt="Junhang Lai's GitHub contribution streak" /></a>
 </p>
 
-<sub>Cards combine repositories where Mr-tooth is an owner, organization member (including BitRoboticsLab), or collaborator. Language share reflects repository code, not overall technical proficiency.</sub>
+<sub>Repository cards combine projects where Mr-tooth is an owner, organization member (including BitRoboticsLab), or collaborator. The streak card uses GitHub's contribution calendar. Language share reflects repository code, not overall technical proficiency.</sub>
