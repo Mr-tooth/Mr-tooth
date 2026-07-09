@@ -126,12 +126,12 @@ I maintain robotics software and reusable engineering tools through [BitRobotics
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Mr-tooth"><img height="170" src="./profile/stats.svg?v=20260709" alt="Junhang Lai's GitHub statistics" /></a>
-  <a href="https://github.com/Mr-tooth?tab=repositories"><img height="170" src="./profile/top-langs.svg?v=20260709" alt="Languages in Junhang Lai's public repositories" /></a>
+  <a href="https://github.com/Mr-tooth"><img height="195" src="./profile/stats.svg?v=20260709" alt="Junhang Lai's GitHub statistics" /></a>
+  <a href="https://github.com/Mr-tooth?tab=repositories"><img height="190" src="./profile/top-langs.svg?v=20260709" alt="Languages in Junhang Lai's public repositories" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mr-tooth"><img height="170" src="./profile/streak.svg?v=20260709" alt="Junhang Lai's GitHub contribution streak" /></a>
+  <a href="https://github.com/Mr-tooth"><img height="195" src="./profile/streak.svg?v=20260709" alt="Junhang Lai's GitHub contribution streak" /></a>
 </p>
 
 <sub>Repository cards combine projects where Mr-tooth is an owner, organization member (including BitRoboticsLab), or collaborator. The streak card uses GitHub's contribution calendar. Language share reflects repository code, not overall technical proficiency.</sub>
