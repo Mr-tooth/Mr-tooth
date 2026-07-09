@@ -65,14 +65,14 @@ def render_svg(login, total, current, longest, updated):
   <title id="title">{title}</title>
   <desc id="desc">Current streak: {current} days. Longest streak: {longest} days. Total contributions this year: {total}.</desc>
   <style>
-    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #006AFF; }}
-    .label {{ font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87; }}
-    .value {{ font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87; }}
-    .small {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87; opacity: .75; }}
-    .ring {{ stroke: #006AFF; fill: none; stroke-width: 7; opacity: .18; }}
-    .arc {{ stroke: #006AFF; fill: none; stroke-width: 7; stroke-linecap: round; opacity: .85; }}
+    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }}
+    .label {{ font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }}
+    .value {{ font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }}
+    .small {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }}
+    .ring {{ stroke: #58a6ff; fill: none; stroke-width: 7; opacity: .18; }}
+    .arc {{ stroke: #58a6ff; fill: none; stroke-width: 7; stroke-linecap: round; opacity: .9; }}
   </style>
-  <rect width="467" height="195" rx="4" fill="transparent"/>
+  <rect width="467" height="195" rx="4" fill="#0d1117"/>
   <text class="header" x="30" y="34">Contribution Streak</text>
   <circle class="ring" cx="94" cy="102" r="46"/>
   <circle class="arc" cx="94" cy="102" r="46" pathLength="100" stroke-dasharray="{min(current, 100)} 100" transform="rotate(-90 94 102)"/>
