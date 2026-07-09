@@ -50,7 +50,7 @@
       fill: #c9d1d9;
     }
     .stagger {
-      opacity: 0;
+      opacity: 1;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     #rect-mask rect{
