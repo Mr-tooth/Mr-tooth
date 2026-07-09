@@ -42,7 +42,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Make generated cards immediately visible
-        run: perl -0pi -e 's/opacity: 0;(\n\s*animation: fadeInAnimation)/opacity: 1;$1/g' profile/stats.svg profile/top-langs.svg
+        run: |
+          perl -0pi -e 's/opacity: 0;(\n\s*animation: fadeInAnimation)/opacity: 1;$1/g' profile/stats.svg profile/top-langs.svg
 
       - name: Generate contribution streak card
         run: |
